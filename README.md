@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋### Boas vindas ao meu perfil :blue_heart
 
-<!--
-**nessa0204/nessa0204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Meu nome é Vanessa dos Santos Luiz
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou utilizando isso para projetos
+- Estou usando para ganhar nota
+### Você pode entrar em contato comigo 🐷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+nessaluiz0204@gmail.com
+@neh_luiz
+
+
+
+
+
+
+
+
+
+
+![](https://media.tenor.com/UpodjLk2BF0AAAAM/laughing-pig.gif)
 -->
+
